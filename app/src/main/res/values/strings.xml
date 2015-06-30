@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VoiceChat</string>
+    <string name="title_activity_user_ops">UserOpsActivity</string>
+
+    <string name="conference_start">开始会议</string>
+    <string name="conference_finish">结束会议</string>
+    <string name="action_settings">Settings</string>
+</resources>
